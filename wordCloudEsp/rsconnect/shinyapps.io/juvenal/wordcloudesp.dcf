@@ -1,0 +1,10 @@
+name: wordcloudesp
+title:
+username:
+account: juvenal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 395293
+bundleId: 1520588
+url: https://juvenal.shinyapps.io/wordcloudesp/
+when: 1533559220.04978
